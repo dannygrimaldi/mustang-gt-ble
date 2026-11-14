@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.jsonl
+*.pklg
+*.tar.gz
+captures/
+gt_capture.txt
+gt_timeline.txt
+.DS_Store
